@@ -20,7 +20,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "AFNetworking",
-            url:"https://binary-ios.p1staff.com/binary/AFNetworking/3.2.1/AFNetworking-2022_12_13_10_58_53-Release.zip?token=AxfwENN6gfY0RQkK",
+            url:"https://binary-ios.p1staff.com/binary/AFNetworking/3.2.1/AFNetworking-2022_12_13_10_58_53-Release.zip",
             checksum: "6151cd30c02a5102504549fd9c7e8e478121ed14b118c90e345e90edf367b3b3"
         ),
         .target(
