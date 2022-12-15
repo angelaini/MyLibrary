@@ -18,11 +18,16 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
+        .binaryTarget(
+            name: "AFNetworking",
+            url:"https://binary-ios.p1staff.com/binary/AFNetworking/3.2.1/AFNetworking-2022_12_13_10_58_53-Release.zip?token=AxfwENN6gfY0RQkK",
+            checksum: "6151cd30c02a5102504549fd9c7e8e478121ed14b118c90e345e90edf367b3b3"
+        ),
         .target(
             name: "MyLibrary",
-            dependencies: []),
-        .testTarget(
-            name: "MyLibraryTests",
-            dependencies: ["MyLibrary"]),
+            dependencies: [
+                .byName(name: "AFNetworking")
+            ]
+        )
     ]
 )
