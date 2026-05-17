@@ -1,0 +1,156 @@
+[
+    {
+        "category": "人物",
+        "categoryImage": "characters.png",
+        "words":
+        [
+            "brother",
+            "chef",
+            "doctor",
+            "family",
+            "farmer",
+            "firefighter",
+            "grandma",
+            "grandpa",
+            "king",
+            "nurse",
+            "policeman",
+            "prince",
+            "princess",
+            "queen",
+            "sister",
+            "snowman",
+            "teacher",
+            "villager"
+        ]
+    },
+    {
+        "category": "动物",
+        "categoryImage": "animals.png",
+        "words":
+        [
+            "bee",
+            "camel",
+            "cat",
+            "chicken",
+            "cow",
+            "dinosaur",
+            "dog",
+            "dolphin",
+            "fish",
+            "fox",
+            "giraffe",
+            "horse",
+            "lion",
+            "monkey",
+            "panda",
+            "parrot",
+            "penguin",
+            "pig",
+            "rabbit",
+            "sheep",
+            "tiger",
+            "turtle",
+            "wolf"
+        ]
+    },
+    {
+        "category": "建筑与场景",
+        "categoryImage": "buildings_scenes.png",
+        "words":
+        [
+            "buildings",
+            "castle",
+            "church",
+            "fire_station",
+            "hospital",
+            "library",
+            "night",
+            "police_station",
+            "rainy",
+            "room",
+            "school",
+            "snowy",
+            "sunny",
+            "village",
+            "wooden_house"
+        ]
+    },
+    {
+        "category": "武器与工具",
+        "categoryImage": "weapons_tools.png",
+        "words":
+        [
+            "arrows",
+            "axe",
+            "bow",
+            "shield",
+            "sword"
+        ]
+    },
+    {
+        "category": "交通与机械",
+        "categoryImage": "transportation_mechanical.png",
+        "words":
+        [
+            "airplane",
+            "ambulance",
+            "bicycle",
+            "boat",
+            "bus",
+            "excavator",
+            "fire_truck",
+            "helicopter",
+            "minecart",
+            "piston",
+            "police_car",
+            "rail",
+            "rocket",
+            "train",
+            "truck"
+        ]
+    },
+    {
+        "category": "怪物",
+        "categoryImage": "monsters.png",
+        "words":
+        [
+            "creeper",
+            "ender_dragon",
+            "enderman",
+            "skeleton",
+            "spider",
+            "witch",
+            "zombie"
+        ]
+    },
+    {
+        "category": "活动",
+        "categoryImage": "activities.png",
+        "words":
+        [
+            "fighting",
+            "fishing",
+            "open",
+            "sleeping",
+            "swimming",
+            "trading"
+        ]
+    },
+    {
+        "category": "物品与资源",
+        "categoryImage": "items_resources.png",
+        "words":
+        [
+            "cake",
+            "carrot",
+            "diamond",
+            "door",
+            "inventory",
+            "key",
+            "laptop",
+            "torch",
+            "trade"
+        ]
+    }
+]
